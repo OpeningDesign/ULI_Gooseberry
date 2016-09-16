@@ -11,7 +11,6 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:freecad="http://www.freecadweb.org/wiki/index.php?title=Svg_Namespace"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -266,12 +265,12 @@
        x="262.67038"
        y="208.74257"
        id="text4363"
+       freecad:editable="ProjectName"
        transform="matrix(0,1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan4365"
          x="262.67038"
          y="208.74257"
-         freecad:EditableText="ProjectName"
          style="text-align:end;text-anchor:end">Gooseberry bakery</tspan></text>
 <text
        xml:space="preserve"
@@ -279,12 +278,13 @@
        x="262.79745"
        y="212.28429"
        id="text4363-2"
+       freecad:editable="sheet"
        transform="matrix(0,1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan4365-9"
          x="262.79745"
          y="212.28429"
-         freecad:EditableText="SheetTitle"
+         freecad:editable="SheetTitle"
          style="text-align:end;text-anchor:end">Bakery room</tspan></text>
 <text
        xml:space="preserve"
@@ -292,12 +292,12 @@
        x="262.74631"
        y="216.01698"
        id="text4363-1"
+       freecad:editable="A100"
        transform="matrix(0,1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan4365-2"
          x="262.74631"
          y="216.01698"
-         freecad:EditableText="A100"
          style="text-align:end;text-anchor:end">A.100</tspan></text>
 <g
        id="g4179"
@@ -322,7 +322,6 @@
        id="text56444"
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11987042px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="matrix(0,0.89442718,1.118034,0,0,0)"
-       freecad:editable="Scale"
        x="28.351511"
        y="161.01309"><tspan
          id="tspan56446"
@@ -333,7 +332,6 @@
        id="text56448"
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11987042px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="matrix(0,0.89442718,1.118034,0,0,0)"
-       freecad:editable="1A"
        x="21.206982"
        y="158.9606"><tspan
          id="tspan56450"
@@ -344,7 +342,6 @@
        id="text56452"
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11987042px;font-family:Arial;-inkscape-font-specification:ArialMT;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        transform="matrix(0,0.89442718,1.118034,0,0,0)"
-       freecad:editable="Title"
        x="27.490915"
        y="157.32567"><tspan
          id="tspan56454"
